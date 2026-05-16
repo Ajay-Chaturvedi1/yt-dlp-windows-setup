@@ -1,0 +1,456 @@
+C:\Windows\system32>
+C:\Windows\system32>cd C:\ytd
+The system cannot find the path specified.
+
+C:\Windows\system32>
+C:\Windows\system32>
+C:\Windows\system32>cd C:\ytdl
+The system cannot find the path specified.
+
+C:\Windows\system32>
+C:\Windows\system32>
+C:\Windows\system32>
+C:\Windows\system32>mkdir C:\ytdl
+
+C:\Windows\system32>
+C:\Windows\system32>
+C:\Windows\system32>
+C:\Windows\system32>cd ..
+
+C:\Windows>
+C:\Windows>
+C:\Windows>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 1213-45FE
+
+ Directory of C:\Windows
+
+18-04-2026  20:06    <DIR>          .
+05-06-2021  20:00    <DIR>          addins
+
+              81 Dir(s)  70,505,656,320 bytes free
+
+C:\Windows>
+C:\Windows>
+C:\Windows>
+C:\Windows>
+C:\Windows>
+C:\Windows>cd ..
+
+C:\>
+C:\>
+C:\>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 1213-45FE
+
+ Directory of C:\
+
+10-05-2025  14:07    <DIR>          CURSUR AI
+16-01-2026  22:58            12,288 DumpStack.log
+01-05-2025  23:42    <DIR>          exprt machine
+02-05-2026  22:11    <DIR>          Intel
+27-07-2025  17:17               108 logUploaderSettings.ini
+27-07-2025  17:17               108 logUploaderSettings_temp.ini
+05-06-2021  17:40    <DIR>          PerfLogs
+12-02-2026  21:24    <DIR>          Program Files
+19-02-2026  23:52    <DIR>          Program Files (x86)
+12-02-2026  21:33    <DIR>          Python314
+01-05-2025  22:35    <DIR>          rhel9 iso
+20-03-2025  05:28    <DIR>          Users
+18-04-2026  20:06    <DIR>          Windows
+16-05-2026  21:30    <DIR>          ytdl
+               3 File(s)         12,504 bytes
+              12 Dir(s)  70,506,242,048 bytes free
+
+C:\>
+C:\>
+C:\>cd Users
+
+C:\Users>
+C:\Users>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 1213-45FE
+
+ Directory of C:\Users
+
+20-03-2025  05:28    <DIR>          .
+03-11-2025  21:49    <DIR>          Public
+03-05-2026  22:56    <DIR>          user
+               0 File(s)              0 bytes
+               3 Dir(s)  70,503,239,680 bytes free
+
+C:\Users>
+C:\Users>
+C:\Users>cd user
+
+C:\Users\user>
+C:\Users\user>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 1213-45FE
+
+ Directory of C:\Users\user
+
+03-05-2026  22:56    <DIR>          .
+20-03-2025  05:28    <DIR>          ..
+21-06-2025  09:53                30 .bash_history
+18-02-2026  20:29    <DIR>          .copilot
+15-02-2026  14:33    <DIR>          .cursor
+21-06-2025  00:02                96 .gitconfig
+10-02-2026  21:40                20 .lesshst
+20-04-2026  21:49                10 .python_history
+20-06-2025  23:22    <DIR>          .vscode
+20-03-2025  05:17    <DIR>          Contacts
+16-05-2025  20:34    <DIR>          Documents
+16-05-2026  21:29    <DIR>          Downloads
+20-03-2025  05:17    <DIR>          Favorites
+20-03-2025  05:17    <DIR>          Links
+20-04-2025  10:38    <DIR>          Music
+16-05-2026  20:58    <DIR>          OneDrive
+10-05-2025  10:23    <DIR>          Pictures
+20-03-2025  05:17    <DIR>          Saved Games
+20-03-2025  05:28    <DIR>          Searches
+06-11-2025  10:22    <DIR>          Videos
+               4 File(s)            156 bytes
+              16 Dir(s)  70,502,572,032 bytes free
+
+C:\Users\user>
+C:\Users\user>
+C:\Users\user>cd Downloads
+
+C:\Users\user\Downloads>
+C:\Users\user\Downloads>
+C:\Users\user\Downloads>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 1213-45FE
+
+ Directory of C:\Users\user\Downloads
+
+16-05-2026  21:29    <DIR>          .
+03-05-2026  22:56    <DIR>          ..
+
+C:\Users\user\Downloads>
+C:\Users\user\Downloads>
+C:\Users\user\Downloads>
+C:\Users\user\Downloads>
+C:\Users\user\Downloads>move yt-dlp.exe C:\ytdl
+        1 file(s) moved.
+
+C:\Users\user\Downloads>
+C:\Users\user\Downloads>
+C:\Users\user\Downloads>
+C:\Users\user\Downloads>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 1213-45FE
+
+ Directory of C:\Users\user\Downloads
+
+
+C:\Users\user\Downloads>cd C:\ytdl
+
+C:\ytdl>
+C:\ytdl>
+C:\ytdl>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 1213-45FE
+
+ Directory of C:\ytdl
+
+16-05-2026  21:33    <DIR>          .
+16-05-2026  21:29        18,448,981 yt-dlp.exe
+               1 File(s)     18,448,981 bytes
+               1 Dir(s)  70,497,345,536 bytes free
+
+C:\ytdl>
+C:\ytdl>
+C:\ytdl>
+C:\ytdl>cd ..
+
+C:\>
+C:\>
+C:\>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 1213-45FE
+
+ Directory of C:\
+
+10-05-2025  14:07    <DIR>          CURSUR AI
+16-01-2026  22:58            12,288 DumpStack.log
+01-05-2025  23:42    <DIR>          exprt machine
+02-05-2026  22:11    <DIR>          Intel
+27-07-2025  17:17               108 logUploaderSettings.ini
+27-07-2025  17:17               108 logUploaderSettings_temp.ini
+05-06-2021  17:40    <DIR>          PerfLogs
+12-02-2026  21:24    <DIR>          Program Files
+19-02-2026  23:52    <DIR>          Program Files (x86)
+12-02-2026  21:33    <DIR>          Python314
+01-05-2025  22:35    <DIR>          rhel9 iso
+20-03-2025  05:28    <DIR>          Users
+18-04-2026  20:06    <DIR>          Windows
+16-05-2026  21:33    <DIR>          ytdl
+               3 File(s)         12,504 bytes
+              12 Dir(s)  70,449,537,024 bytes free
+
+C:\>
+C:\>
+C:\>
+C:\>cd Users
+
+C:\Users>
+C:\Users>
+C:\Users>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 1213-45FE
+
+ Directory of C:\Users
+
+20-03-2025  05:28    <DIR>          .
+03-11-2025  21:49    <DIR>          Public
+03-05-2026  22:56    <DIR>          user
+               0 File(s)              0 bytes
+               3 Dir(s)  70,448,816,128 bytes free
+
+C:\Users>
+C:\Users>
+C:\Users>cd user
+
+C:\Users\user>
+C:\Users\user>
+C:\Users\user>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 1213-45FE
+
+ Directory of C:\Users\user
+
+03-05-2026  22:56    <DIR>          .
+20-03-2025  05:28    <DIR>          ..
+21-06-2025  09:53                30 .bash_history
+18-02-2026  20:29    <DIR>          .copilot
+15-02-2026  14:33    <DIR>          .cursor
+21-06-2025  00:02                96 .gitconfig
+10-02-2026  21:40                20 .lesshst
+20-04-2026  21:49                10 .python_history
+20-06-2025  23:22    <DIR>          .vscode
+20-03-2025  05:17    <DIR>          Contacts
+16-05-2025  20:34    <DIR>          Documents
+16-05-2026  21:38    <DIR>          Downloads
+20-03-2025  05:17    <DIR>          Favorites
+20-03-2025  05:17    <DIR>          Links
+20-04-2025  10:38    <DIR>          Music
+16-05-2026  20:58    <DIR>          OneDrive
+10-05-2025  10:23    <DIR>          Pictures
+20-03-2025  05:17    <DIR>          Saved Games
+20-03-2025  05:28    <DIR>          Searches
+06-11-2025  10:22    <DIR>          Videos
+               4 File(s)            156 bytes
+              16 Dir(s)  70,448,488,448 bytes free
+
+C:\Users\user>
+C:\Users\user>
+C:\Users\user>cd Documents
+
+C:\Users\user\Documents>cd ..
+
+C:\Users\user>cd Downloads
+
+C:\Users\user\Downloads>
+C:\Users\user\Downloads>
+C:\Users\user\Downloads>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 1213-45FE
+
+ Directory of C:\Users\user\Downloads
+
+16-05-2026  21:38    <DIR>          .
+03-05-2026  22:56    <DIR>          ..
+16-05-2026  21:38        33,924,586 ffmpeg-2026-05-13-git-a327bc0561-essentials_build.7z
+14-04-2026  09:45           402,115 XXXXXXXXXX4638_20260413215641140739.pdf
+             119 File(s) 29,807,735,490 bytes
+               5 Dir(s)  70,444,863,488 bytes free
+
+C:\Users\user\Downloads>
+C:\Users\user\Downloads>
+C:\Users\user\Downloads>
+C:\Users\user\Downloads>
+C:\Users\user\Downloads>winget install Gyan.FFmpeg
+The `msstore` source requires that you view the following agreements before using.
+Terms of Transaction: https://aka.ms/microsoft-store-terms-of-transaction
+The source requires the current machine's 2-letter geographic region to be sent to the backend service to function properly (ex. "US").
+
+Do you agree to all the source agreements terms?
+[Y] Yes  [N] No: y
+Found FFmpeg [Gyan.FFmpeg] Version 8.1.1
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Downloading https://github.com/GyanD/codexffmpeg/releases/download/8.1.1/ffmpeg-8.1.1-full_build.zip
+  ██████████████████████████████   240 MB /  240 MB
+Successfully verified installer hash
+Extracting archive...
+Successfully extracted archive
+Starting package install...
+Command line alias added: "ffmpeg"
+Command line alias added: "ffplay"
+Command line alias added: "ffprobe"
+Path environment variable modified; restart your shell to use the new value.
+Successfully installed
+
+C:\Users\user\Downloads>
+C:\Users\user\Downloads>
+C:\Users\user\Downloads>
+C:\Users\user\Downloads>cd C:\ytdl
+
+C:\ytdl>
+C:\ytdl>
+C:\ytdl>yt-dlp "https://www.youtube.com/watch?v=5ycntHs-kAE&list=LL&index=3&t=511s"
+[youtube:tab] Extracting URL: https://www.youtube.com/watch?v=5ycntHs-kAE&list=LL&index=3&t=511s
+[youtube:tab] Downloading playlist LL - add --no-playlist to download just the video 5ycntHs-kAE
+[youtube:tab] LL: Downloading webpage
+WARNING: [youtube:tab] Unable to recognize playlist. Downloading just video 5ycntHs-kAE
+[youtube] Extracting URL: https://www.youtube.com/watch?v=5ycntHs-kAE
+[youtube] 5ycntHs-kAE: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] 5ycntHs-kAE: Downloading android vr player API JSON
+WARNING: ffmpeg not found. The downloaded format may not be the best available. Installing ffmpeg is strongly recommended: https://github.com/yt-dlp/yt-dlp#dependencies
+[info] 5ycntHs-kAE: Downloading 1 format(s): 18
+[download] Destination: MCSA Windows Server 2022 Full Course In Single Video ｜Zero To Hero Non Stop Training 100% Lab ⧸Hindi [5ycntHs-kAE].mp4
+[download]  11.7% of  405.94MiB at  136.10KiB/s ETA 44:57
+ERROR: Interrupted by user
+
+C:\ytdl>
+C:\ytdl>
+C:\ytdl>
+C:\Windows>
+C:\Windows>cd C:\ytdl
+
+C:\ytdl>
+C:\ytdl>
+C:\ytdl>
+C:\ytdl>yt-dlp "https://www.youtube.com/watch?v=5ycntHs-kAE&list=LL&index=3&t=511s"
+[youtube:tab] Extracting URL: https://www.youtube.com/watch?v=5ycntHs-kAE&list=LL&index=3&t=511s
+[youtube:tab] Downloading playlist LL - add --no-playlist to download just the video 5ycntHs-kAE
+[youtube:tab] LL: Downloading webpage
+WARNING: [youtube:tab] Unable to recognize playlist. Downloading just video 5ycntHs-kAE
+[youtube] Extracting URL: https://www.youtube.com/watch?v=5ycntHs-kAE
+[youtube] 5ycntHs-kAE: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] 5ycntHs-kAE: Downloading android vr player API JSON
+[info] 5ycntHs-kAE: Downloading 1 format(s): 137+251
+[download] Destination: MCSA Windows Server 2022 Full Course In Single Video ｜Zero To Hero Non Stop Training 100% Lab ⧸Hindi [5ycntHs-kAE].f137.mp4
+[download]   1.1% of  721.21MiB at  748.92KiB/s ETA 16:14[download] Got error: 8568768 bytes read, 1882303 more expected. Retrying (1/10)...
+[download] Destination: MCSA Windows Server 2022 Full Course In Single Video ｜Zero To Hero Non Stop Training 100% Lab ⧸Hindi [5ycntHs-kAE].f137.mp4
+[download]   1.4% of  721.21MiB at  266.91KiB/s ETA 45:27
+ERROR: Interrupted by user
+
+C:\ytdl>
+
+C:\ytdl>yt-dlp "https://www.youtube.com/watch?v=5ycntHs-kAE&list=LL&index=3&t=511s"
+[youtube:tab] Extracting URL: https://www.youtube.com/watch?v=5ycntHs-kAE&list=LL&index=3&t=511s
+[youtube:tab] Downloading playlist LL - add --no-playlist to download just the video 5ycntHs-kAE
+[youtube:tab] LL: Downloading webpage
+WARNING: [youtube:tab] Unable to recognize playlist. Downloading just video 5ycntHs-kAE
+[youtube] Extracting URL: https://www.youtube.com/watch?v=5ycntHs-kAE
+[youtube] 5ycntHs-kAE: Downloading webpage
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+[youtube] 5ycntHs-kAE: Downloading android vr player API JSON
+[info] 5ycntHs-kAE: Downloading 1 format(s): 137+251
+[download] Resuming download at byte 10776907
+[download] Destination: MCSA Windows Server 2022 Full Course In Single Video ｜Zero To Hero Non Stop Training 100% Lab ⧸Hindi [5ycntHs-kAE].f137.mp4
+[download]   3.4% of  721.21MiB at  138.10KiB/s ETA 01:26:06[download] Got error: 4564199 bytes read, 5479168 more expected. Retrying (1/10)...
+[download] Destination: MCSA Windows Server 2022 Full Course In Single Video ｜Zero To Hero Non Stop Training 100% Lab ⧸Hindi [5ycntHs-kAE].f137.mp4
+[download] 100% of  721.21MiB in 00:15:16 at 805.70KiB/s
+[download] Destination: MCSA Windows Server 2022 Full Course In Single Video ｜Zero To Hero Non Stop Training 100% Lab ⧸Hindi [5ycntHs-kAE].f251.webm
+[download] 100% of  308.64MiB in 00:03:33 at 1.45MiB/s
+[Merger] Merging formats into "MCSA Windows Server 2022 Full Course In Single Video ｜Zero To Hero Non Stop Training 100% Lab ⧸Hindi [5ycntHs-kAE].mkv"
+Deleting original file MCSA Windows Server 2022 Full Course In Single Video ｜Zero To Hero Non Stop Training 100% Lab ⧸Hindi [5ycntHs-kAE].f251.webm (pass -k to keep)
+Deleting original file MCSA Windows Server 2022 Full Course In Single Video ｜Zero To Hero Non Stop Training 100% Lab ⧸Hindi [5ycntHs-kAE].f137.mp4 (pass -k to keep)
+
+C:\ytdl>
+C:\ytdl>
+C:\ytdl>notepad README.md
+
+C:\ytdl>
+C:\ytdl>git init
+Initialized empty Git repository in C:/ytdl/.git/
+
+C:\ytdl>
+C:\ytdl>
+C:\ytdl>
+C:\ytdl>git add README.md
+
+C:\ytdl>
+C:\ytdl>
+C:\ytdl>
+C:\ytdl>git commit -m "Initial commit: yt-dlp Windows setup guide"
+[master (root-commit) 45d30ea] Initial commit: yt-dlp Windows setup guide
+ 1 file changed, 90 insertions(+)
+ create mode 100644 README.md
+
+C:\ytdl>
+C:\ytdl>
+C:\ytdl>
+C:\ytdl>
+C:\ytdl>git remote add origin https://github.com/Ajay-Chaturvedi1/yt-dlp-windows-setup.git
+
+C:\ytdl>
+C:\ytdl>
+C:\ytdl>
+C:\ytdl>git branch -M main
+
+C:\ytdl>
+C:\ytdl>
+C:\ytdl>
+C:\ytdl>git push -u origin main
+fatal: User cancelled dialog.
+Username for 'https://github.com': ajay-chaturvedi1
+Password for 'https://ajay-chaturvedi1@github.com':
+remote: Invalid username or token. Password authentication is not supported for Git operations.
+fatal: Authentication failed for 'https://github.com/Ajay-Chaturvedi1/yt-dlp-windows-setup.git/'
+
+C:\ytdl>
+C:\ytdl>
+C:\ytdl>
+C:\ytdl>git push -u origin main
+fatal: User cancelled dialog.
+Username for 'https://github.com': Ajay-Chaturvedi1
+Password for 'https://Ajay-Chaturvedi1@github.com':
+remote: Invalid username or token. Password authentication is not supported for Git operations.
+fatal: Authentication failed for 'https://github.com/Ajay-Chaturvedi1/yt-dlp-windows-setup.git/'
+
+C:\ytdl>
+C:\ytdl>
+C:\ytdl>
+C:\ytdl>git config --global credential.helper manager
+
+C:\ytdl>
+C:\ytdl>
+C:\ytdl>git push -u origin main
+fatal: Response status code does not indicate success: 401 (Unauthorized).
+
+C:\ytdl>
+C:\ytdl>
+C:\ytdl>
+C:\ytdl>
+C:\ytdl>
+C:\ytdl>
+C:\ytdl>
+C:\ytdl>
+C:\ytdl>
+====> after run this command a window will open that say signup by browser of token , choose token after that will show a space where you need to past that token which you have generated past that after that it will authenticate properly
+C:\ytdl>git push -u origin main
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 868 bytes | 434.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/Ajay-Chaturvedi1/yt-dlp-windows-setup.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+
+C:\ytdl>
+C:\ytdl>
+C:\ytdl>
+C:\ytdl>git config --global credential.helper manager
+
+C:\ytdl>
+C:\ytdl>
+C:\ytdl>
